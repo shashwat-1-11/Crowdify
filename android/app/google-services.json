@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735799993711",
+    "project_id": "textify-13428",
+    "storage_bucket": "textify-13428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735799993711:android:e3cf7d83d7756155d2f49a",
+        "android_client_info": {
+          "package_name": "com.example.textify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735799993711-rhubbbqdg2rmga99g4bd9spol7i8lgg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textify",
+            "certificate_hash": "813034af2e029bb3735b718368eff255ffbc3277"
+          }
+        },
+        {
+          "client_id": "735799993711-sei3r2et7039c6ie30sevith1q6t4tkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvC-2DJdcFPjRypOBVWNuBPExcR8Bx7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735799993711-sei3r2et7039c6ie30sevith1q6t4tkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
